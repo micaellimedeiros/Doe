@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/Doe/master/public/logo.png">
 
 # Sistema de doação de sangue realizado na MaratonaDev da Rocketseat
-</h1>
+
 ---
 
 Este projeto foi realizado na MaratonaDev durante os dias 17 e 18 de fevereiro de 2020.
@@ -21,3 +21,4 @@ Este projeto foi realizado na MaratonaDev durante os dias 17 e 18 de fevereiro d
 
 
 By [MicaelliMedeiros](https://www.linkedin.com/in/micaellimedeiros/)
+</h1>
