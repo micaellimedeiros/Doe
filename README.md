@@ -9,7 +9,7 @@ Este projeto foi realizado na MaratonaDev durante os dias 17 e 18 de fevereiro d
 
 
 ### Bancos de dados da aplicação
-- [Postegres](https://github.com/postgres/postgres)
+- [Postgres](https://github.com/postgres/postgres)
 
 ---
 
